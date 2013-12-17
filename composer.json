@@ -1,7 +1,6 @@
 {
     "name": "antwebes/chatea-common",
     "description": "Provides class and interface common for antwebs projects",
-    "version": "1.0.0",
     "homepage": "https://github.com/antwebes/ChateaCommon",
     "type": "library",
     "keywords": [
